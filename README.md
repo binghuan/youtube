@@ -4,4 +4,4 @@
 
 <img src="pictures/QRCode.png">
 
-<p>Or, link to here <a href="http://binghuan.github.io/keep/pin2start.html">http://binghuan.github.io/keep/pin2start.html</a></p>
+<p>Or, link to here <a href="http://binghuan.github.io/youtube/pin2start.html">http://binghuan.github.io/youtube/pin2start.html</a></p>
