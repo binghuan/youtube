@@ -1,5 +1,11 @@
 # YouTube Home Screen Shortcut
 
+## Feature overview
+
+![youtube — feature flow diagram](README-assets/project-preview.svg)
+
+Conceptual feature flow based on this repository; this is a documentation diagram, not an application screenshot.
+
 A web application that creates a custom home screen tile for iOS devices that redirects users to YouTube. This project allows users to add a YouTube shortcut to their iOS home screen with a custom icon and appearance.
 
 ## Features
